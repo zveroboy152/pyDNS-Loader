@@ -16,5 +16,3 @@ for ipval in result:
 
 t_end = time.time() + 60 * 15
 while time.time() < t_end:
-
-    #Do the function but I still need to do it.
